@@ -6,7 +6,7 @@ Welcome to the "Guess the Number" game! This Python program allows you to play a
 
 ## How to Play
 
-1. Run the `2.guess the number.py` file using a Python interpreter.
+1. Run the `guess the number.py` file using a Python interpreter.
 2. The program will generate a random number between a specified range.
 3. Enter your guesses when prompted.
 4. The program will provide feedback if your guess is too low or too high.
