@@ -3,8 +3,10 @@
 **How to Use:**
 
 1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/anushasundark/1.madlibs-madlibs.py
+
 2. **Navigate to the Project Directory:**
-      ```bash
-   cd madlibs-madlibs.py
+3. **Run the madlib program
+4. **Follow the Prompts:**
+   1. Enter a noun when prompted.
+   2.Enter a verb when prompted.
+   3.Enter an adjective when prompted.
