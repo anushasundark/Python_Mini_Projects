@@ -1,4 +1,4 @@
-# Guess the Number (User) Game
+# Guess the Number (User)
 
 ## Introduction
 
@@ -6,7 +6,7 @@ Welcome to the "Guess the Number (User)" game! In this Python program, the compu
 
 ## How to Play
 
-1. Run the `guess_the_number_user.py` file using a Python interpreter.
+1. Run the `guess_the_number.py` file using a Python interpreter.
 2. Think of a number and enter it when prompted.
 3. The computer will make random guesses within a specified range.
 4. Provide feedback to the computer after each guess:
