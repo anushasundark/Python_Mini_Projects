@@ -18,7 +18,7 @@ Welcome to the "Guess the Number (User)" game! In this Python program, the compu
 ## File Structure
 
 - `guess_the_number_user.py`: The main Python script for the game.
-- `README.md`: This file, providing instructions on how to play the game.
+- `Readme.md`: This file, providing instructions on how to play the game.
 
 ## Requirements
 
