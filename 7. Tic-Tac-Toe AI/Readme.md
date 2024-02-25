@@ -9,7 +9,7 @@ Tic-Tac-Toe AI is a simple Python implementation of the classic Tic-Tac-Toe game
 - Human vs AI gameplay.
 - AI opponent never loses due to Minimax algorithm.
 - Command-line interface for easy interaction.
--
+
 ## Getting Started
 
 1. **Clone the Repository:**
