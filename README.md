@@ -10,11 +10,11 @@ This repository contains a collection of mini projects to practice and enhance y
 
 2. **Guess the Number (Computer):**
    - Description: Develop a guessing game where the computer randomly selects a number, and the user tries to guess it.
-   - File: `guess number computer.py`
+   - File: `guess the number.py`
 
 3. **Guess the Number (User):**
    - Description: Build a program where the user thinks of a number, and the computer tries to guess it.
-   - File: `guess_number_user.py`
+   - File: `guess the number.py`
 
 4. **Rock Paper Scissors:**
    - Description: Implement the classic Rock, Paper, Scissors game where the user plays against the computer.
