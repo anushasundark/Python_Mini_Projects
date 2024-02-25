@@ -5,6 +5,7 @@ This is a simple console-based implementation of the Minesweeper game in Python.
 ## How to Play
 
 1. **Clone the Repository:**
+   
 
     
 
