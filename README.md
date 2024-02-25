@@ -50,7 +50,7 @@ This repository contains a collection of mini projects to practice and enhance y
 
 12. **Markov Chain Text Composer:**
     - Description: Build a program that generates new text based on a Markov chain model.
-    - File: `markov_chain_text_composer.py`
+    - File: `markov_chain_text.py`
 
 ## How to Use
 
