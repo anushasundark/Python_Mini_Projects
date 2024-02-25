@@ -15,7 +15,7 @@ Welcome to the Rock, Paper, Scissors game! This Python program allows you to pla
 ## File Structure
 
 - `rock_paper_scissors.py`: The main Python script for the game.
-- `README.md`: This file, providing instructions on how to play the game.
+- `Readme.md`: This file, providing instructions on how to play the game.
 
 ## Requirements
 
