@@ -1,4 +1,4 @@
-# Photo Manipulation with Pillow in Visual Studio Code
+# Photo Manipulation 
 
 ## Overview
 
