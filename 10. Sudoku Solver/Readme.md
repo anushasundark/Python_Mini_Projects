@@ -7,7 +7,7 @@ This is a simple Python implementation of a Sudoku solver using a backtracking a
 1. **Clone the Repository:**
 
     ```bash
-https://github.com/anushasundark/Python_Mini_Projects/blob/main/10.%20Sudoku%20Solver/sudoku_solver.py
+    https://github.com/anushasundark/Python_Mini_Projects/blob/main/10.%20Sudoku%20Solver/sudoku_solver.py
     ```
 
 2. **Run the Solver:**
