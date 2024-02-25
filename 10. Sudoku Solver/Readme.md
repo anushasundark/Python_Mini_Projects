@@ -7,8 +7,7 @@ This is a simple Python implementation of a Sudoku solver using a backtracking a
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/your-username/sudoku-solver-python.git
-    cd sudoku-solver-python
+https://github.com/anushasundark/Python_Mini_Projects/blob/main/10.%20Sudoku%20Solver/sudoku_solver.py
     ```
 
 2. **Run the Solver:**
@@ -50,14 +49,3 @@ This is a simple Python implementation of a Sudoku solver using a backtracking a
     else:
         print("\nNo solution exists.")
     ```
-
-6. **Contributing:**
-
-    - Contributions, issues, and feedback are welcome.
-    - Feel free to open issues or create pull requests.
-
-7. **License:**
-
-    - This Sudoku solver is licensed under the [MIT License](LICENSE).
-
-Feel free to customize this README file according to your specific project details. If you have any additional information or instructions, include them in the README for better clarity.
