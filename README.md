@@ -1,5 +1,4 @@
 # Python_Mini_Projects
-# Python Mini Projects
 
 This repository contains a collection of mini projects to practice and enhance your Python programming skills. Each project focuses on different aspects of programming, algorithmic problem-solving, and game development.
 
