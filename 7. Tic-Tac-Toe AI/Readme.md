@@ -16,8 +16,10 @@ Tic-Tac-Toe AI is a simple Python implementation of the classic Tic-Tac-Toe game
 2. Navigate to the Project Directory:
 3. Run the Game:
 4. Make Your Moves:
+
 -Enter the row and column numbers when prompted for your move.
-5. Enjoy the Game:
+6. Enjoy the Game:
+
 -Play and have fun challenging the AI!
 
 ## Game Rules
