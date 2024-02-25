@@ -1,4 +1,4 @@
-# Sudoku Solver in Python
+# Sudoku Solver 
 
 This is a simple Python implementation of a Sudoku solver using a backtracking algorithm.
 
