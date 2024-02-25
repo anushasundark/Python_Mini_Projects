@@ -13,13 +13,13 @@
 4. **Example**
 
 
-     Enter a noun: cat.
+     Enter a noun: cat
     
-     Enter a verb: jumped.
+     Enter a verb: jumped
    
-     Enter an adjective: brown.
+     Enter an adjective: brown
    
    
      Madlibs Result:
    
-     The brown cat jumped over the lazy dog.
+     The brown cat jumped over the lazy dog
